@@ -1,8 +1,1 @@
-# minecraft-event-installer
-<p>
-mod installer for 2025 Event
-</p>
-<p align="right">
-#Nastavnick
-</p>
-  
+<p align="center"> <img src="https://img.shields.io/badge/Minecraft%20Event-2025-orange" alt="Ивент 2025" /> <img src="https://img.shields.io/badge/Status-Ready%20to%20Play-brightgreen" alt="Статус: Готов к игре" /> <img src="https://img.shields.io/badge/Built%20by-Nastavnick-blueviolet" alt="Разработано Nastavnick" /> </p>
